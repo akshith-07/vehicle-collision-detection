@@ -27,23 +27,23 @@ Real-Time Vehicle Collision Detection with Alert System is a project aimed at en
 
 ## Output
 
-## HomeScreen for Interface
+### HomeScreen for Interface
 
 ![Home Screen](HomeScreen.png)
 
-## Collision Detection
+### Collision Detection
 
 ![Collision Detection](Detection.png)
 
-## Video Capture using OpenCV
+### Video Capture using OpenCV
 
 ![Video Capture](VideoCapture.png)
 
-## Prediction Results
+### Prediction Results
 
 ![Prediction Results](PredictionResults.png)
 
-#### Collision Alert
+### Collision Alert
 
 ![Collision Alert](AlertMessage.png)
 
